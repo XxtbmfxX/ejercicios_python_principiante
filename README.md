@@ -1,4 +1,6 @@
-# Directorio de Proyectos en Python para Principiantes
+# Directorio de Proyectos en Python para 
+
+Cambie esta linea
 
 Hola \(@^0^@)/ este es mi repositorio de los proyectos python que hice practicar Python
 (y chat-gpt para las partes más aburridas y repetitivas).
